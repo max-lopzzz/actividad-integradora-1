@@ -1,4 +1,3 @@
-PUNTO 4 - COMPARACION DE GENOMAS
 Longitud Wuhan: 29903
 Longitud Texas: 29882
 Posiciones comparadas: 29882

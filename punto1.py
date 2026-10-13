@@ -85,9 +85,7 @@ def punto1(carpeta="."):
     """
     genoma = leer_secuencia(os.path.join(carpeta, ARCHIVO_GENOMA))
 
-    print("=" * 70)
-    print(" PUNTO 1: Apariciones de los genes en SARS-COV-2-MN908947.3 (Wuhan)")
-    print("=" * 70)
+   
     print(f"Longitud del genoma: {len(genoma)} nucleotidos")
     print("(Indices en base 0; entre parentesis la posicion en base 1, como en NCBI)\n")
 

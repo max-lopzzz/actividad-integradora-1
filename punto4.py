@@ -120,7 +120,6 @@ def punto4(carpeta="Archivos"):
 
     # Armamos el resumen para mostrarlo y guardarlo
     lineas = [
-        "PUNTO 4 - COMPARACION DE GENOMAS",
         "Longitud Wuhan: " + str(len(wuhan)),
         "Longitud Texas: " + str(len(texas)),
         "Posiciones comparadas: " + str(longitud_comparada),
