@@ -1,0 +1,3 @@
+Gen M: longitud del palíndromo más largo = 11 (índices 493-503) -> CTAAAGAAATC
+Gen S: longitud del palíndromo más largo = 15 (índices 570-584) -> GAATTTGTGTTTAAG
+Gen ORF1AB: longitud del palíndromo más largo = 20 (índices 9711-9730) -> CTCAATGACTTCAGTAACTC
