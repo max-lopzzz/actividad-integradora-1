@@ -1,0 +1,66 @@
+PUNTO 4 - COMPARACION DE GENOMAS
+Longitud Wuhan: 29903
+Longitud Texas: 29882
+Posiciones comparadas: 29882
+Posiciones iguales: 29875
+Diferencias encontradas: 7
+
+Indice (desde 0) | Wuhan | Texas
+8781 (8782) | C | T
+18602 (18603) | T | C
+18974 (18975) | T | A
+19174 (19175) | A | C
+27924 (27925) | C | T
+28143 (28144) | T | C
+29094 (29095) | C | T
+
+Racha mas larga sin diferencias:
+Inicio: 8782
+Fin (incluido): 18601
+Longitud: 9820
+Letras extra al final de Wuhan: 21
+Contenido extra: AAAAAAAAAAAAAAAAAAAAA
+
+Analisis de codones:
+
+Indice 8781 (8782): C -> T
+Gen: ORF1ab (codon 2839)
+Codon Wuhan: AGC  Codon Texas: AGT
+Aminoacido Wuhan: S  Aminoacido Texas: S
+Cambia el aminoacido: No
+
+Indice 18602 (18603): T -> C
+Gen: ORF1ab (codon 6113)
+Codon Wuhan: CAT  Codon Texas: CAC
+Aminoacido Wuhan: H  Aminoacido Texas: H
+Cambia el aminoacido: No
+
+Indice 18974 (18975): T -> A
+Gen: ORF1ab (codon 6237)
+Codon Wuhan: GTT  Codon Texas: GTA
+Aminoacido Wuhan: V  Aminoacido Texas: V
+Cambia el aminoacido: No
+
+Indice 19174 (19175): A -> C
+Gen: ORF1ab (codon 6304)
+Codon Wuhan: GAT  Codon Texas: GCT
+Aminoacido Wuhan: D  Aminoacido Texas: A
+Cambia el aminoacido: Si
+
+Indice 27924 (27925): C -> T
+Gen: ORF8 (codon 11)
+Codon Wuhan: ACA  Codon Texas: ATA
+Aminoacido Wuhan: T  Aminoacido Texas: I
+Cambia el aminoacido: Si
+
+Indice 28143 (28144): T -> C
+Gen: ORF8 (codon 84)
+Codon Wuhan: TTA  Codon Texas: TCA
+Aminoacido Wuhan: L  Aminoacido Texas: S
+Cambia el aminoacido: Si
+
+Indice 29094 (29095): C -> T
+Gen: N (codon 274)
+Codon Wuhan: TTC  Codon Texas: TTT
+Aminoacido Wuhan: F  Aminoacido Texas: F
+Cambia el aminoacido: No
