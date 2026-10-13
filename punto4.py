@@ -177,7 +177,6 @@ def punto4(carpeta="Archivos"):
 
 
 if __name__ == "__main__":
-    # Si existe la carpeta Archivos se usa, si no, los archivos estan en esta misma carpeta
     if os.path.isdir("Archivos"):
         punto4("Archivos")
     else:
